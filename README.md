@@ -1,2 +1,2 @@
 # js-projects
-10 mini JS projects
+11 mini JS projects
